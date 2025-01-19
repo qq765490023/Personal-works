@@ -1,4 +1,4 @@
-# it is highly recommanded to git clone to your local PC and watch them.
+it is recommanded to first git clone to PC then watch.
 
 # Projects I did before.
 

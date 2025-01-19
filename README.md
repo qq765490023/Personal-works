@@ -1,3 +1,5 @@
+# it is highly recommanded to git clone to your local PC and watch them.
+
 # Projects I did before.
 
 1. Whole-system-setting-up of a 4G-based robot remote control system.
